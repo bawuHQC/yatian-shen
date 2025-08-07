@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "郝启超"
+title                    : "超"
 description              : "电磁无损检测"
 repository               : "tangjyan/tangjyan.github.io"
 google_scholar_stats_use_cdn : false
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
